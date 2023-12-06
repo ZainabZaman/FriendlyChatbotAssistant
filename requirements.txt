@@ -1,0 +1,12 @@
+openai
+datetime
+tiktoken
+numpy
+pickle5
+people_also_ask
+nltk
+time
+cryptography
+geopy
+geocoder
+nltk
