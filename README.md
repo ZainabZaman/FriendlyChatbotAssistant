@@ -31,9 +31,6 @@ Below are a few examples of the chatbot interacting as a friend!
 
 [//]: # (![Description of Screenshot 1](screenshots/screenshot1.png))
 
-![Chat with the chatbot acting as a friend](result_images/friend.JPG)
-![Chat with the chatbot acting as a friend](result_images/friend_02.JPG)
-![Chat with the chatbot acting as a friend](result_images/friend_03.JPG)
-
+![alt text](https://github.com/ZainabZaman/FriendlyChatbotAssistant/blob/c2e2f22301740e4179df4156aaa3ab186770fa86/result_images/friend.JPG?raw=true)
 ```python
 python chatbot.py
