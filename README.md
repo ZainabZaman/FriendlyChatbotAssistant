@@ -27,6 +27,8 @@ This Python script implements an enhanced chatbot using the OpenAI gpt-3.5-turbo
 - `pickle`: Python module for object serialization.
 
 ## Example
+Below are a few examples of the chatbot interacting as a friend!
 
+[//]: # (![Description of Screenshot 1](screenshots/screenshot1.png))
 ```python
 python chatbot.py
