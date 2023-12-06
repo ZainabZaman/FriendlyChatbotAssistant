@@ -30,5 +30,10 @@ This Python script implements an enhanced chatbot using the OpenAI gpt-3.5-turbo
 Below are a few examples of the chatbot interacting as a friend!
 
 [//]: # (![Description of Screenshot 1](screenshots/screenshot1.png))
+
+![Chat with the chatbot acting as a friend](result_images/friend.JPG)
+![Chat with the chatbot acting as a friend](result_images/friend_02.JPG)
+![Chat with the chatbot acting as a friend](result_images/friend_03.JPG)
+
 ```python
 python chatbot.py
