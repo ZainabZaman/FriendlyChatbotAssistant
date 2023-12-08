@@ -35,5 +35,16 @@ Below are a few examples of the chatbot interacting as a friend!
 
 ![alt text](https://github.com/ZainabZaman/FriendlyChatbotAssistant/blob/2e4bc69301f1cfd360eda396e8a49c46897932b4/result_images/friend_03.JPG?raw=true)
 
+## Implementation
+Before executing any of the coe files run the following command to install the required packages 
 ```python
-python chatbot.py
+pip install -r requirements.txt
+```
+Execute the following command to implement chatbot with multiple roles 
+```python
+python chatbot_function_withCharacter_roles.py
+```
+To implement a chatbot that can fetch results from google search's people also ask section execute the following command 
+```python
+python chatbot_user_google_search.py
+```
