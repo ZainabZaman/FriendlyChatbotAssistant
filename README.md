@@ -48,3 +48,8 @@ To implement a chatbot that can fetch results from google search's people also a
 ```python
 python chatbot_user_google_search.py
 ```
+
+## Acknowledgments
+
+- The Openai `gpt-3.5-turbo` is used for chatbot's response generations.
+- The `people_also_ask` library is used to fetch results from Google search.
