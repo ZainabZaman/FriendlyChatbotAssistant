@@ -43,7 +43,7 @@ def num_tokens_from_string(string: str, encoding_name: str) -> int:
 #''''''''''''''''''''''' without function '''''''''''''''''''''''''''
 client = OpenAI(
     # api_key defaults to os.environ.get("OPENAI_API_KEY")
-    api_key="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",
+    api_key="YOUR_OPENAI_API_KEY",
 )
 
 def get_completion_from_messages(messages, model='gpt-3.5-turbo', temperature=0):
